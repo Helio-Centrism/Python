@@ -1,0 +1,6 @@
+# You are given a list of subjects for students . Assume one classroom is required for 1 subject So how many classrooms are required for the following list of subjects
+#"python", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java"
+
+subjects_required = {"python", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java", "python", "C++", "java", "C++", "javascipt", "java"}
+print("number of classrooms required is ", len(subjects_required))
+print(subjects_required)
