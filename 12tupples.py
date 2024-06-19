@@ -19,6 +19,7 @@ print(type(tup))
 print(tup)
 tub = (1) # this is not a tuple
 print(type(tub))
-print(tub)]
+print(tub)
 tub = (1,) # this is a tuple
 print(type(tub))
+

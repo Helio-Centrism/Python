@@ -45,5 +45,5 @@ print(list)
 # the pop() method is used to remove the element at any index
 
 list.pop(6)
-print(list)
+print(list) 
 

@@ -39,3 +39,4 @@ print(dict)
 null_dict = {} # we can create empty dictionary or null dictionary
 null_dict["name"] = "naruto" # we can add the key value pair in the dictionary later.
 print(null_dict) 
+

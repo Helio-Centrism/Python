@@ -6,3 +6,4 @@ i = 0
 while i < len(num):
     print(num[i]) # This will print the elements of the list
     i += 1
+# traverse the list using a loop and print the elements of the list.
